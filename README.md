@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on improving my front end developer skills<br>I'm looking to collaborate on various front end development projects, neural networks, analysis of data stacks, and AI/ML related too<br>I'm currently learning about various machine learning models<br>Ask me anything about neural model/data science<br>Fun fact i can sleep anywhere under 30 secs
+🔭 I’m currently working on an Outcome-Based Education (OBE) System for tracking attainment metrics, and a Movie Recommendation Engine (Moctale).<br>👯 I’m looking to collaborate on complex dashboard visualizations or React-based architecture projects.<br>🤝 I’m looking for help with optimizing database schemas for educational platforms and advanced Operating System resource management.<br>🌱 I’m currently learning Google Cloud Platform (via Arcade) and exploring system logic for scalable web applications.<br>💬 Ask me about Java, Python, algorithmic complexity (Big O), or how I use AI to generate traditional Indian folk art.<br>⚡ Fun fact I serve on my college's fest management team, and in my free time, I analyze the calorie density of North Indian thalis.
 
 
 ## 🌐 Socials:
